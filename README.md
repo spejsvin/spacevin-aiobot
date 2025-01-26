@@ -1,7 +1,5 @@
 # 🌟 Spacevin's Multipurpose Discord Bot 🤖
 
-![Bot Banner](https://your-banner-image-url-here.png)
-
 [![GitHub License](https://img.shields.io/github/license/spejsvin/spacevin-aiobot?color=blue)](https://github.com/spejsvin/spacevin-aiobot/blob/main/LICENSE)
 [![GitHub Stars](https://img.shields.io/github/stars/spejsvin/spacevin-aiobot?style=social)](https://github.com/spejsvin/spacevin-aiobot/stargazers)
 
