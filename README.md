@@ -1,57 +1,54 @@
-# Spacevin's Multipurpose Discord Bot
+# 🌟 Spacevin's Multipurpose Discord Bot 🤖
 
-![Bot Logo](https://your-bot-logo-url-here.png)
+![Bot Banner](https://your-banner-image-url-here.png)
 
-A versatile Discord bot designed to enhance server management and user interaction. This bot offers features like slot management, vouching system, and sticky messages.
+[![GitHub License](https://img.shields.io/github/license/spejsvin/spacevin-aiobot?color=blue)](https://github.com/spejsvin/spacevin-aiobot/blob/main/LICENSE)
+[![GitHub Stars](https://img.shields.io/github/stars/spejsvin/spacevin-aiobot?style=social)](https://github.com/spejsvin/spacevin-aiobot/stargazers)
 
-## Features
+Revolucionirajte svoj Discord server sa našim naprednim botom! Pokrenut Node.js-om i MongoDB-om, nudi niz funkcija za unapređenje vašeg Discord iskustva. 🚀
 
-### Slot Management
-Create and manage temporary channels (slots) for users.
+## ✨ Funkcije
 
-![Slot Configuration](https://cdn.discordapp.com/attachments/1187389819807092868/1333178692616065024/image.png?ex=6797f2e9&is=6796a169&hm=06ad57db1d5bf08ecdbc41fd29301b3344c9ad25a1240408e5b34f180404a505&)
+### 🎰 Upravljanje Slotovima
+Kreirajte i upravljajte privremenim kanalima sa lakoćom.
 
-### Vouching System
-Allow users to vouch for others, building a reputation system within your server.
+![Konfiguracija Slota](https://cdn.discordapp.com/attachments/1187389819807092868/1333178692616065024/image.png?ex=6797f2e9&is=6796a169&hm=06ad57db1d5bf08ecdbc41fd29301b3344c9ad25a1240408e5b34f180404a505&)
 
-![Vouch Creation](https://cdn.discordapp.com/attachments/1187389819807092868/1333179175674052638/image.png?ex=6797f35c&is=6796a1dc&hm=e9e5782855a33d7dbfffeaf58ee1fa574befc3fb7d0b21c35dfff761b91c0b79&)
+### 👍 Sistem Voucheva
+Izgradite poverenje unutar vaše zajednice.
 
-### Sticky Messages
-Pin important messages that reappear after new messages in designated channels.
+![Kreiranje Voucha](https://cdn.discordapp.com/attachments/1187389819807092868/1333179175674052638/image.png?ex=6797f35c&is=6796a1dc&hm=e9e5782855a33d7dbfffeaf58ee1fa574befc3fb7d0b21c35dfff761b91c0b79&)
 
-## Commands
+### 📌 Sticky Poruke
+Održavajte važne informacije vidljivim sa automatskim repostovanjem.
 
-- `/slotconfig`: Configure slot settings
-- `/slot`: Create a new slot
-- `/vouchconfig`: Set up the vouching system
-- `/vouch`: Create a vouch for a user
-- `/sticky`: Set up a sticky message
+## 🛠 Komande
 
-## Setup
+| Komanda | Opis |
+|---------|------|
+| `/slotconfig` | 🔧 Konfigurišite podešavanja slotova |
+| `/slot` | 🆕 Kreirajte novi slot |
+| `/vouchconfig` | ⚙️ Podesite sistem voucheva |
+| `/vouch` | 🏆 Kreirajte vouch za korisnika |
+| `/sticky` | 📍 Podesite sticky poruku |
 
-1. Clone this repository
-2. Install dependencies with `npm install`
-3. Create a `.env` file with your Discord bot token and MongoDB URI
-4. Run the bot with `node index.js`
+## 🤝 Doprinos
 
-## Configuration
+Doprinosi su dobrodošli! Otvorite pull request da počnete.
 
-Make sure to set up the following environment variables:
+## 📜 Licenca
 
-- `DISCORD_TOKEN`: Your Discord bot token
-- `MONGODB_URI`: Your MongoDB connection string
+Ovaj projekat je pod MIT Licencom. Pogledajte [LICENSE](LICENSE) fajl za detalje.
 
-## Contributing
+## 🙏 Zahvalnice
 
-Contributions are welcome! Please feel free to submit a Pull Request.
+- Kreirao Spacevin sa ❤️
+- Izgrađeno sa [Discord.js](https://discord.js.org/)
+- Pokreće [MongoDB](https://www.mongodb.com/)
 
-## License
+---
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgements
-
-- Created by Spacevin
-- Built with [Discord.js](https://discord.js.org/)
-- Database powered by [MongoDB](https://www.mongodb.com/)
+<p align="center">
+  Unapredite Vaše Discord Iskustvo
+</p>
 
